@@ -1,0 +1,167 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+
+.main-continer {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background: #fff;
+  margin: 40px auto;
+  padding-left: 0;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+.about-me-profession {
+  font-size: 14px;
+  font-weight: 700;
+  color: #000;
+}
+.about-me-profession-1 {
+  font-weight: 700;
+  font-size: 45px;
+}
+.about-me-profession-2 {
+  font-weight: 400;
+  font-size: 14px;
+  color: #595959;
+  width: 400px;
+  height: 100px;
+  left: 498px;
+  top: 252px;
+}
+
+.www {
+  padding-left: 18px;
+}
+.projects-item {
+  color: #000000;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+}
+.projects-item-1 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+  text-decoration: none;
+}
+.about-me {
+  margin-left: 90px;
+  margin-top: 100px;
+}
+.data {
+  font-weight: 400;
+  font-size: 12px;
+  margin-top: 11px;
+  color: #a8a8a8;
+  line-height: 15px;
+}
+.my-projects-section {
+  font-weight: 700;
+  font-size: 22px;
+  margin-left: 90px;
+}
+.work-3 {
+  font-weight: 700;
+  font-size: 16px;
+  color: black;
+}
+.work-3-text {
+  font-weight: 700;
+  font-size: 16px;
+  color: orangered;
+}
+
+.my-Work-Experience {
+  margin-left: 90px;
+}
+.Education {
+  margin-left: 90px;
+  margin-top: 40px;
+  margin-bottom: 100px;
+}
+.Education-University {
+  font-weight: 700;
+  font-size: 16px;
+  color: orangered;
+}
+
+/* main bar */
+.main-bar {
+  background: #1e2939;
+  width: 45%;
+  padding: 40px 0;
+}
+
+.contact,
+.Tech-Skills {
+  margin: 50px 0 0 40px;
+}
+.Soft-Skills {
+  margin: 50px 0 0 40px;
+}
+.titel-1 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 27px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+/* contacts section */
+.contact-type {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 30px;
+  color: rgb(238, 107, 6);
+  margin-right: 7px;
+}
+.contact-type-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #d5dbe4;
+}
+/* Tech-Soft-Skills */
+.Tech-Soft-Skills {
+  padding: 0;
+  padding-left: 17px;
+}
+.Tech-Soft {
+  color: #fb6d3a;
+}
+.Tech-Soft-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.Experience-1 {
+  padding-left: 21px;
+  padding-right: 200px;
+}
+
+.Projects-1 {
+  padding-top: 1px;
+}
+.FOTO {
+  /* border-radius: 75px; */
+  padding-left: 18px;
+}
+.Tochka {
+  font-style: 100px;
+  color: #1e2939;
+}
+.Уровень {
+  font-style: italic;
+  font-weight: bold;
+  color: #fff;
+}
